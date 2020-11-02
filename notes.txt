@@ -1,0 +1,7 @@
+basic DB schema: (use GORM)
+
+List of users, has name, email, relationship
+list of relationships: has list of users currently in each one, along with list of cols:
+	one column per new data structure: start with scrapbooks, albums, and countdowns (each own table)
+
+use mailers to join/leave relationships without entering codes...
